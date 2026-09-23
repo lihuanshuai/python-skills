@@ -4,4 +4,4 @@
 
 | 技能 | 用途 |
 | --- | --- |
-| [python-basic-ci-config-guide/](python-basic-ci-config-guide/) | 新增或迁移 Ruff、Mypy、pre-commit 基础配置 |
+| [skills/python-basic-ci-config-guide/](skills/python-basic-ci-config-guide/) | 新增或迁移 Ruff、Mypy、pre-commit 基础配置 |
